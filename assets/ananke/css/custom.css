@@ -1,8 +1,0 @@
-/* Left-align content instead of centered */
-.tc-l {
-  text-align: left !important;
-}
-
-article.nested-links {
-  text-align: left !important;
-}
