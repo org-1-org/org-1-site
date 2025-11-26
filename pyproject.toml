@@ -1,7 +1,9 @@
 [project]
 name = "org-1-site"
 version = "0.1.0"
-description = "Add your description here"
+description = "Hugo site for org-1.org - Open, neutral standards for real-world API data"
 readme = "README.md"
-requires-python = ">=3.14"
-dependencies = []
+requires-python = ">=3.13"
+dependencies = [
+    "hugo>=0.152.0",
+]

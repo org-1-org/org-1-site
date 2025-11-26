@@ -1,0 +1,16 @@
+# Hugo build artifacts
+public/
+resources/
+.hugo_build.lock
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo

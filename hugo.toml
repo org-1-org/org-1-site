@@ -1,0 +1,33 @@
+baseURL = "https://org-1.github.io/"
+languageCode = "en-us"
+title = "org-1.org"
+theme = "ananke"
+
+[params]
+  description = "Open, neutral standards for real-world API data."
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+
+  [[menu.main]]
+    identifier = "governance"
+    name = "Governance"
+    url = "/governance/"
+
+  [[menu.main]]
+    identifier = "maintainer"
+    name = "Maintainer"
+    url = "/maintainer/"
+
+  [[menu.main]]
+    identifier = "contributing"
+    name = "Contributing"
+    url = "/contributing/"
+
+  [[menu.main]]
+    identifier = "canonizer"
+    name = "Canonizer"
+    url = "/canonizer/"
