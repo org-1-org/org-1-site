@@ -5,6 +5,7 @@ theme = "ananke"
 
 [params]
   description = "Open, neutral standards for real-world API data."
+  custom_css = ["custom.css"]
 
 [menu]
   [[menu.main]]
