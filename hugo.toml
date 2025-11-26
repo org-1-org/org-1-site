@@ -1,4 +1,4 @@
-baseURL = "https://org-1-org.github.io/org-1-site/"
+baseURL = "https://org-1.org/"
 languageCode = "en-us"
 title = "org-1.org"
 theme = "ananke"
